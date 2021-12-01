@@ -1,5 +1,5 @@
 outs:
-- md5: dbf2b3bc6b2755bbe1e368dddb17fd7e.dir
-  size: 117432
-  nfiles: 20
+- md5: c9d42196f5c4af7f047e0dd18d4581d5.dir
+  size: 234864
+  nfiles: 40
   path: train
