@@ -1,0 +1,8 @@
+[core]
+    remote = remote_storage
+[cache]
+    type = hardlink
+['remote "remote_storage"']
+    url = ssh://videtics@ipe.videtics.net/raid/remote_storage2/data
+    port = 32900
+    ask_password = true
